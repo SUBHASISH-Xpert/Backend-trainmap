@@ -1,0 +1,24 @@
+API USE REST api USING HTTP METHOD -->
+
+GET -> server se data fetch karvana ho tb use karta hai
+POST -> server pr data send karna ho
+PATCH -> sever par dta already hai aur data update karna ho
+DELETE -> server pr data hai aur us delete krna hai
+
+REST api ko start karna [GET, POST, PUT, DELETE]
+
+NOTE = {
+    title:"MY first node",
+    description:"This is my first node project"
+};
+
+multiple notes using array
+
+const notes = [{
+    title:"MY first node",
+    description:"This is my first node project"
+},
+{
+    title:"MY second node",
+    description:"This is my second node project"
+}]
