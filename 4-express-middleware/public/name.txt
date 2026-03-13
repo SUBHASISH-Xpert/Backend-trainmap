@@ -1,0 +1,2 @@
+it using app.use(express.static('public'));
+hii i am using middle ware you use it
